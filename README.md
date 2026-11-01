@@ -4,7 +4,7 @@ Olá! Sou **Guilherme Peres Figueredo**, um estudante de **Sistemas de Informaç
 
 ## 🚀 Sobre Mim
 
-Sou um profissional em formação dedicado a aprender novas tecnologias e desenvolver soluções de qualidade. Acredito no poder do código limpo, na importância da documentação e na colaboração como ferramentas essenciais para o sucesso de qualquer projeto. Estou em busca de oportunidades para aplicar meus conhecimentos e crescer continuamente na área de desenvolvimento de software.
+Sou um profissional em formação dedicado a aprender novas tecnologias e desenvolver soluções de qualidade. Acredito no poder do código limpo, na importância da documentação e na colaboração dentro de times.
 
 Minha abordagem inclui:
 - 💡 Resolução criativa de problemas complexos
@@ -30,7 +30,10 @@ Minha abordagem inclui:
 
 ## 📊 Estatísticas do GitHub
 
-![GuilhermeGPF0601's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGPF0601&show_icons=true&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGPF0601&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub de Guilherme" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGPF0601&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas por Guilherme" />
+</div>
 
 ---
 
@@ -61,4 +64,4 @@ Estou atualmente dedicado a:
 
 ---
 
-**Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios, acompanhar meu progresso e não hesite em entrar em contato para discussões, feedback ou oportunidades de colaboração.** 🙌
+**Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios, acompanhar meu progresso e não hesite em entrar em contato para discussões, feedback ou oportunidades de colaboração.**
