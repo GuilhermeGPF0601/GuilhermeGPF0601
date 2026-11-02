@@ -1,67 +1,40 @@
-# 👋 Bem-vindo ao Meu Perfil GitHub
+# 🧑‍💻 Guilherme Pereira Figueiredo
 
-Olá! Sou **Guilherme Peres Figueredo**, um estudante de **Sistemas de Informação** na **UDF**, apaixonado por desenvolvimento de software e em constante evolução na minha jornada como desenvolvedor.
+Olá! Sou estudante de Sistemas de Informação na UDF, apaixonado por tecnologia, desenvolvimento web e criação de interfaces criativas. Neste perfil, compartilho meus projetos, experimentos e estudos em programação.
 
-## 🚀 Sobre Mim
+## 🔥 Projeto principal
 
-Sou um profissional em formação dedicado a aprender novas tecnologias e desenvolver soluções de qualidade. Acredito no poder do código limpo, na importância da documentação e na colaboração dentro de times.
+Atualmente, meu projeto mais relevante e em destaque é:
 
-Minha abordagem inclui:
-- 💡 Resolução criativa de problemas complexos
-- 📚 Aprendizado contínuo e autoaperfeiçoamento
-- 🤝 Colaboração e comunicação efetiva com equipes
-- 🎯 Foco em escrever código limpo e mantível
+- [site-apresentacao-halloween](https://github.com/GuilhermeGPF0601/site-apresentacao-halloween) — uma landing page temática de Halloween, desenvolvida com HTML, CSS e Bootstrap, focada em apresentação visual e prototipagem de interface.
 
----
+## 🎃 Projeto do Halloween
 
-## 💻 Stack Tecnológico
+- [site-apresentacao-halloween](https://github.com/GuilhermeGPF0601/site-apresentacao-halloween) — projeto criado para explorar design visual, criatividade e estrutura de páginas modernas com foco em um tema de festa de Halloween.
 
-**Linguagens (em desenvolvimento):**
-- ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python) - Aprendendo o básico
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) - Aprendendo o básico
+## 🛠️ Stack e ferramentas
 
-**Versionamento & Ferramentas:**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) - Conhecimento em controle de versão
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) - Experiência com repositórios remotos
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) - Editor principal
-- Terminal/Command Line - Proficiência em linha de comando
-
----
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGPF0601&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub de Guilherme" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGPF0601&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas por Guilherme" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGPF0601&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de Guilherme" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGPF0601&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas por Guilherme" />
 </div>
 
----
+## 📌 Sobre mim
 
-## 🎯 Foco Atual
+Sou uma pessoa curiosa, focada em aprender e evoluir constantemente no mundo da tecnologia. Gosto de transformar ideias em projetos práticos, melhorar minhas habilidades de programação e explorar novas formas de criar experiências digitais.
 
-Estou atualmente dedicado a:
-- 🐍 Construir uma base sólida em **Python**
-- ☕ Fortalecer meus conhecimentos em **Java**
-- 📚 Estudar conceitos fundamentais de programação e engenharia de software
-- 🌐 Contribuir para projetos e colaborar com a comunidade
-- 🔍 Aprimorar minhas práticas de versionamento com Git
+## 🌐 Conecte-se comigo
 
----
+- [LinkedIn](https://br.linkedin.com/in/guilherme-peres-figueredo-0a3a9637b)
+- [Email](mailto:devguilhermeperes@gmail.com)
 
-## 📈 Objetivos Profissionais
-
-- Consolidar conhecimentos em linguagens de programação modernas
-- Participar de projetos de código aberto e aprender com a comunidade
-- Desenvolver habilidades em arquitetura de software e boas práticas
-- Preparar-me para oportunidades profissionais no mercado de desenvolvimento
-
----
-
-## 🌐 Conecte-se Comigo
-
-- 💼 LinkedIn: [Guilherme Peres Figueredo](https://br.linkedin.com/in/guilherme-peres-figueredo-0a3a9637b)
-- 📧 Email: [devguilhermeperes@gmail.com](mailto:devguilhermeperes@gmail.com)
-
----
-
-**Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios, acompanhar meu progresso e não hesite em entrar em contato para discussões, feedback ou oportunidades de colaboração.**
+Obrigado por visitar meu perfil! 🚀
