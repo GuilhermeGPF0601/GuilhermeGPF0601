@@ -1,4 +1,4 @@
-# 🧑‍💻 Guilherme Pereira Figueiredo
+# 🧑‍💻 Guilherme Peres Figueredo
 
 Olá! Sou estudante de Sistemas de Informação na UDF, apaixonado por tecnologia, desenvolvimento web e criação de interfaces criativas. Neste perfil, compartilho meus projetos, experimentos e aprendizados.
 
